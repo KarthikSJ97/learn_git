@@ -1,2 +1,2 @@
-Hello, this is the second addition to the about file from newBranch !!
+Hello, Karthik. This is the third addition to the about file from master !!
 This line is added in newBranch.
