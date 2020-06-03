@@ -1,1 +1,2 @@
 Hello, this is the very first addition to the about file !!
+This line is added in newBranch.
