@@ -1,2 +1,3 @@
-Hello, Karthik. This is the third addition to the about file from master !!
+
+Hello, Karthik & Vinayak. This is the third addition to the about file from master !!
 This line is added in newBranch.
